@@ -1,0 +1,36 @@
+{
+  "name": "frontend-starter-kit",
+  "version": "1.0.0",
+  "description": "Gulp, ExpressJs, EJS, SASS bootkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhi91/frontend-starter-kit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suhi91/frontend-starter-kit/issues"
+  },
+  "homepage": "https://github.com/suhi91/frontend-starter-kit#readme",
+  "dependencies": {
+    "browser-sync": "^2.18.8",
+    "ejs": "^2.5.5",
+    "express": "^4.14.1",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-notify": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-uglify": "^2.0.1",
+    "node-neat": "^1.7.2",
+    "nodemon": "^1.11.0"
+  }
+}
